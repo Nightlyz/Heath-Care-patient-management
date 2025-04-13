@@ -1,5 +1,5 @@
 
--- Healthcare Patient Management System SQL Script
+-- Healthcare Patient Management System 
 
 -- 1. Departments Table
 CREATE TABLE Departments (
